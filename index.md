@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到charlielou的主页
 
-You can use the [editor on GitHub](https://github.com/LouChengLin/TheNewWorld.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 我是谁
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+if-else 工程师
+bugbuilder
 
-### Markdown
+### 我的经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+某不知名大学毕业
+
+就职于某不知名公司
 
 ```markdown
 Syntax highlighted code block
