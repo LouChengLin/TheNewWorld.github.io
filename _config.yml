@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -6,16 +6,9 @@ theme: jekyll-theme-minimal
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: charlielou的学习专栏
-brief-intro: Android and Python Coder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://louchenglin.github.io/TheNewWorld.github.io/" # the base hostname & protocol for your site
-
-permalink: /:year/:month/:day/:title/
+theme: jekyll-theme-minimal
 
 # other links
-
 description_footer: charlielou的学习专栏
 
 # comments
